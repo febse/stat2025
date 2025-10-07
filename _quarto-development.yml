@@ -1,0 +1,22 @@
+book:
+  chapters:
+    - index.qmd
+    - part: "Introduction"      
+      chapters:
+        - 01-Introduction.ipynb
+        - 02-Data-Summaries.ipynb
+    - part: "Probability"
+      chapters:          
+        - 03-Probability.ipynb
+        - 00-Garden-of-Forking-Data.qmd
+        - 04-Counting-Things.ipynb
+        - 04A-Simulation-Exercises.ipynb
+        - 05-Conditional-Probability.ipynb
+        - 06-Discrete-Random-Variables.ipynb
+        - 07-Moments-Discrete-Distributions.ipynb
+        - 08-Bi-variate-Discrete-Distributions.ipynb
+        # - 09-Properties-Expectation-Variance.ipynb
+        - 10-Important-Discrete-Distributions.ipynb
+        - 11-Continuous-Distributions.ipynb
+        - 12-Estimation.ipynb
+    - references.qmd
