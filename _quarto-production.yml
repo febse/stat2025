@@ -10,7 +10,7 @@ book:
     - part: "Probability"
       chapters:          
         - 03-Probability.ipynb        
-        - 04-Counting-Things.ipynb
+        - 04-Conditional-Probability.ipynb
         - 00-Garden-of-Forking-Data.qmd
         # - 04A-Simulation-Exercises.ipynb
         # - 05-Conditional-Probability.ipynb
