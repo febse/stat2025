@@ -8,6 +8,10 @@
 ![](./figures/qr_code.png)
 :::
 
+## Notebooks
+
+- [Counting]([math.factorial(5)](https://colab.research.google.com/github/febse/stat2025/blob/main/04-Counting-Things.ipynb))
+
 ## Schedule
 
 1.  Wed 12:15-14:45 in room 215k

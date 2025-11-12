@@ -9,10 +9,10 @@ book:
         - 02-Data-Summaries.ipynb
     - part: "Probability"
       chapters:          
-        - 03-Probability.ipynb        
-        - 04-Conditional-Probability.ipynb
-        - 04-Conditional-Probability-1-Class.ipynb
-        - 00-Garden-of-Forking-Data.qmd
+        # - 03-Probability.ipynb        
+        # - 04-Conditional-Probability.ipynb
+        # - 04-Conditional-Probability-1-Class.ipynb
+        # - 00-Garden-of-Forking-Data.qmd
         - 05-Counting-Things-Class.ipynb
         # - 04A-Simulation-Exercises.ipynb
         # - 05-Conditional-Probability.ipynb
