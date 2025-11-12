@@ -13,7 +13,7 @@ book:
         - 04-Conditional-Probability.ipynb
         - 04-Conditional-Probability-1-Class.ipynb
         - 00-Garden-of-Forking-Data.qmd
-        - 04-A-Counting-Things-Class.ipynb
+        - 05-Counting-Things-Class.ipynb
         # - 04A-Simulation-Exercises.ipynb
         # - 05-Conditional-Probability.ipynb
         # - 06-Discrete-Random-Variables.ipynb
