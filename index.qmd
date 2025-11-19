@@ -10,7 +10,9 @@
 
 ## Notebooks
 
-- [Counting]([math.factorial(5)](https://colab.research.google.com/github/febse/stat2025/blob/main/04-Counting-Things.ipynb))
+-   [Counting](%5Bmath.factorial(5)%5D(https://colab.research.google.com/github/febse/stat2025/blob/main/04-Counting-Things.ipynb))
+-   [Discrete Distributions](https://colab.research.google.com/github/febse/stat2025/blob/main/06-Discrete-Random-Variables-Class.ipynb)
+
 
 ## Schedule
 
