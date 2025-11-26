@@ -13,6 +13,7 @@
 -   [Counting](%5Bmath.factorial(5)%5D(https://colab.research.google.com/github/febse/stat2025/blob/main/04-Counting-Things.ipynb))
 -   [Discrete Distributions](https://colab.research.google.com/github/febse/stat2025/blob/main/06-Discrete-Random-Variables-Class.ipynb)
 
+- [Discrete Distributions (Exercises)](vg)](https://colab.research.google.com/github/febse/stat2025/blob/main/08-Discrete-Random-Variables-Problems-Class.ipynb)
 
 ## Schedule
 
