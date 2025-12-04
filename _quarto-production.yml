@@ -16,7 +16,9 @@ book:
         - 05-Counting-Things-Class.ipynb
         # - 04A-Simulation-Exercises.ipynb
         # - 05-Conditional-Probability.ipynb
-        # - 06-Discrete-Random-Variables.ipynb
+    - part: "Random Variables and Distributions"
+      chapters:
+        - 06-Discrete-Random-Variables.ipynb
         - 07-Moments-Discrete-Distributions.ipynb
         - 08-Bi-variate-Discrete-Distributions.ipynb
         # - 09-Properties-Expectation-Variance.ipynb
