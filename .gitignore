@@ -76,3 +76,4 @@ __pycache__/
 
 /exam/
 **/*.quarto_ipynb
+site_libs
